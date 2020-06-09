@@ -1,0 +1,70 @@
+/*===== gallery =====*/
+.roundabout-holder  { 
+	width:850px;
+	height:496px;
+	margin:0 auto;
+}
+.roundabout-moveable-item {
+   width: 646px;
+   height: 416px;
+   cursor: pointer;
+	 border:3px solid #ccc;
+	 border:3px solid rgba(0, 0, 0, 0.08);
+   border-radius:4px;
+	 -moz-border-radius:4px;
+	 -webkit-border-radius:4px;
+}
+	.roundabout-moveable-item img{
+		width:100%;
+	}
+.roundabout-in-focus {
+	border:3px solid rgba(0, 0, 0, 0.2);
+}
+.circular { width: 300px; height: 300px; border-radius: 150px; -webkit-border-radius: 150px; -moz-border-radius: 150px; background: url(http://www.tublog.com/tuimagen.jpg) no-repeat; }
+
+.maincat{
+	background:url("../images/03.jpg");
+}
+img{
+	margin: 20px;
+	
+
+}
+a{
+	text-decoration: none;
+}
+
+#categoriasPrincipal{
+	
+	width:200px;
+	height:300px;
+	margin-left: 25%;
+	}
+#numeros{
+	
+	width:200px;
+	height:300px;
+	margin-left: 0,5%;
+	}
+
+#categorias{
+	width:300px;
+	height:300px;
+
+	margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 70px;
+    margin-left: 10px;
+}
+
+#tituloTabla{
+	text-align: center;
+}
+
+.imPresDic{
+	width: 200px;
+}
+
+.sondPresDic{
+	width: 200px;
+}
